@@ -56,6 +56,6 @@ tornado==6.0.3
 Twisted==20.3.0
 txaio==20.4.1
 tzlocal==2.0.0
-urllib3==1.25.8
+urllib3==1.26.5
 wrapt==1.11.2
 zope.interface==5.0.2
